@@ -1,0 +1,6 @@
+framework module Pods_DocScanner {
+  umbrella header "Pods-DocScanner-umbrella.h"
+
+  export *
+  module * { export * }
+}

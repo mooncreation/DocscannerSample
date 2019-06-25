@@ -1,0 +1,32 @@
+PODS:
+  - DocumentScanner (1.0.0)
+  - SwiftLint (0.26.0)
+  - TOCropViewController (2.3.6)
+
+DEPENDENCIES:
+  - DocumentScanner (from `https://github.com/adorsys/document-scanner-ios`)
+  - SwiftLint
+  - TOCropViewController
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SwiftLint
+    - TOCropViewController
+
+EXTERNAL SOURCES:
+  DocumentScanner:
+    :git: https://github.com/adorsys/document-scanner-ios
+
+CHECKOUT OPTIONS:
+  DocumentScanner:
+    :commit: a3bccf3ec0f50a5cd7acbc880df3315bd79e3a58
+    :git: https://github.com/adorsys/document-scanner-ios
+
+SPEC CHECKSUMS:
+  DocumentScanner: 9a8f9d7ba0640b7999ad5a088573b61a4784765b
+  SwiftLint: f6b83e8d95ee1e91e11932d843af4fdcbf3fc764
+  TOCropViewController: 6d972f2c609372312648f96758e13a7f689efbc0
+
+PODFILE CHECKSUM: 79ef6d515817968eb4bf1b847decbcc1367c1802
+
+COCOAPODS: 1.5.3
